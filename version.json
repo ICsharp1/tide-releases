@@ -1,0 +1,7 @@
+{
+  "versionCode": 24,
+  "versionName": "1.3.24",
+  "description": "- Video player: tapping the seek bar now jumps there and stays there (before, the handle snapped back to where it was). The same fix applies to double-tap ±10 s and swipe-to-seek, and sliding the handle now always applies the final position when you let go.",
+  "downloadUrl": "https://raw.githubusercontent.com/ICsharp1/tide-releases/main/Tide.apk?v=24",
+  "sha256": "4770403be15ec6750a1105ef369077e4bf8826c73531b8597ddfec813199148d"
+}
